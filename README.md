@@ -32,4 +32,7 @@ Recipe lost!
 
 ## Benistout (5.x.x)
 Russian Imperial Stout with "vin cuit", that is basically "thick" pear
-sugar, a speciality of my area (Fribourg)
+sugar, a speciality of my area (Fribourg / Switzerland)
+
+# Labels
+A big thank to Muggen for drawing the labels!
